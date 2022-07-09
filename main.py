@@ -2,8 +2,6 @@
 Making an interactive program to make a meadow of unique flowers
 
 Sajid Kamal
-CS21
-October, 2021
 
 """
 
